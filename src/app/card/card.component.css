@@ -1,0 +1,27 @@
+h6{
+    font-size: 10px;
+}
+#card{
+    border-color: rgb(221, 237, 250); 
+    border-radius: 0px;
+}
+#card2{
+    width: 25rem;
+}
+h2{
+    color: rgb(180, 118, 2);
+}
+p{
+    font-size: 10px;
+}
+button{
+    background-color: rgb(180, 118, 2); 
+    border-color: rgb(180, 118, 2); 
+    height: 50px; 
+    width: 150px;
+}
+button{
+    text-decoration:none ; 
+    color:white; 
+    font-size: 10px;
+}
